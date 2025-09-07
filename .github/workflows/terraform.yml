@@ -5,7 +5,7 @@ on:
       - main
 
 env:
-  TF_ACTION_WORKING_DIR: 'lesson-4-exercise/starter/terraform'
+  TF_ACTION_WORKING_DIR: 'terraform'
   AWS_REGION: 'us-east-1'
 
 jobs:
